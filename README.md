@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Marcelo Bastos Jr.
+## Olá!
 
 - 🔭 Hoje trabalho como Analista de integração
 - 🌱 Estudando JavaScript, Node.js e Vue.js
